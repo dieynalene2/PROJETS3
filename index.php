@@ -9,3 +9,6 @@ require_once __DIR__ . '/../utils/sevice.php';
 require_once __DIR__ . '/view/product.view.php';
 require_once __DIR__ . '/view/product.view.php';
 require_once __DIR__ . '/controller/product.controller.php';
+require_once __DIR__ . '/controller/client.controller.php';
+
+
