@@ -6,3 +6,4 @@ require_once __DIR__ . '/../utils/error.php';
 require_once __DIR__ . '/../utils/validator.php';
 require_once __DIR__ . '/../utils/view.utils.php';
 require_once __DIR__ . '/../utils/sevice.php';
+require_once __DIR__ . '/view/product.view.php';
